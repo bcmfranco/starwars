@@ -192,7 +192,7 @@
     })
 
     $$('#github_btn').addEvent('click', function(){
-        // Mandar a github
+        window.location.href = "https://github.com/bcmfranco/starwars";
     })
 
 
